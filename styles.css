@@ -1,0 +1,63 @@
+body {
+  background-color: #ffe3c2;
+}
+
+#title, #title-description {
+  text-align: center;
+  margin: auto;
+  background-color: #fab669;
+}
+
+#title {
+  font-size: 50px;
+  margin-top: 80px;
+}
+
+#title-description {
+  font-size: 18px;
+  padding: 0 0 10px 0;
+
+}
+
+.small {
+  border: solid 1px black;
+  margin: 20px 500px;
+}
+
+#img-div {
+  text-align: center;
+  padding: 50px 0 0 0;
+}
+
+#image {
+  max-width: 100%;
+  width: 65em;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+#img-caption {
+  font-size: 18px;
+  padding: 0;
+}
+
+#tribute-info {
+  margin: auto 500px;
+  font-size: 20px;
+}
+
+#quote {
+  text-align: center;
+  margin: auto;
+}
+
+#image2 {
+  max-width: 100%;
+  width: 10em;
+  height: auto;
+}
+
+#wiki-link {
+  text-align: center;
+}
